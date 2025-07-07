@@ -18,7 +18,7 @@ The aim of this project is to rigorously benchmark the performance of the Aigis 
 ### Co-Supervisor:
     Ghanem Gharbi, Ing.
     - Role: Engineer and Graduate Student
-    - Institution: ESPRIT, School of Engineers
+    - Institution: Université Gustave Eiffel, Paris
 
 ### Interns:
     * Mohamed Ali Hmida
